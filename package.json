@@ -1,0 +1,23 @@
+{
+  "name": "guideindia-seo-automode",
+  "version": "1.0.0",
+  "description": "24/7 automated SEO auditing + AI fix generation for guideindiatours.com (travel/tours niche).",
+  "type": "module",
+  "bin": {
+    "seo-automode": "src/cli.js"
+  },
+  "scripts": {
+    "audit": "node src/cli.js audit",
+    "fix": "node src/cli.js fix",
+    "rank": "node src/cli.js rank",
+    "report": "node src/cli.js report"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.40.0",
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,36 @@
+{
+  "site": "https://www.guideindiatours.com",
+  "businessName": "Guide India Tours",
+  "businessType": "TravelAgency",
+  "niche": "India tours, holiday packages, guided travel, custom itineraries",
+  "locale": "en-IN",
+  "crawl": {
+    "maxPages": 300,
+    "concurrency": 5,
+    "requestDelayMs": 400,
+    "timeoutMs": 20000,
+    "respectRobots": true,
+    "userAgent": "GuideIndiaSEOAutomode/1.0 (+https://www.guideindiatours.com)"
+  },
+  "thresholds": {
+    "titleMin": 30,
+    "titleMax": 60,
+    "metaDescMin": 70,
+    "metaDescMax": 160,
+    "minWordCount": 300,
+    "maxH1": 1
+  },
+  "trackKeywords": [
+    "india tour packages",
+    "golden triangle tour",
+    "rajasthan tour package",
+    "kerala tour package",
+    "india holiday packages",
+    "guided india tours"
+  ],
+  "ai": {
+    "enabled": true,
+    "model": "claude-sonnet-5",
+    "maxFixesPerRun": 40
+  }
+}

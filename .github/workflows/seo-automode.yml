@@ -1,0 +1,46 @@
+name: SEO Automode (24/7)
+
+# Runs nightly + on-demand. This is your "always on" engine — no server to host.
+on:
+  schedule:
+    - cron: '0 2 * * *' # 02:00 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  seo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm install --no-audit --no-fund
+
+      - name: Run SEO audit + AI fixes + rank tracking
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: node src/cli.js report
+
+      - name: Open PR with new scorecard + suggested fixes
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(seo): nightly audit + AI fix suggestions"
+          branch: seo-automode/nightly
+          title: "🧭 SEO Automode: nightly scorecard & fixes"
+          body: |
+            Automated SEO run.
+
+            - See `reports/scorecard.md` for the health score and issue breakdown.
+            - `reports/fixes.json` contains AI-generated titles, meta descriptions,
+              alt text, and JSON-LD schema — **review before applying to the live site**.
+            - `reports/rank-history.json` tracks keyword positions over time.
+          add-paths: |
+            reports/**
