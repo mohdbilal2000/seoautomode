@@ -1,0 +1,1301 @@
+{
+  "site": "https://www.guideindiatours.com",
+  "auditedAt": "2026-09-05T06:39:18.620Z",
+  "score": 91,
+  "pageCount": 125,
+  "totalIssues": 163,
+  "summary": [
+    {
+      "rule": "title-too-long",
+      "severity": "medium",
+      "count": 62,
+      "fixable": true,
+      "pages": [
+        "https://www.guideindiatours.com/services",
+        "https://www.guideindiatours.com/guide-booking",
+        "https://www.guideindiatours.com/contact",
+        "https://www.guideindiatours.com/agra-tours",
+        "https://www.guideindiatours.com/delhi-tours",
+        "https://www.guideindiatours.com/jaipur-tours",
+        "https://www.guideindiatours.com/golden-triangle-tours",
+        "https://www.guideindiatours.com/plans/2006",
+        "https://www.guideindiatours.com/plans/26",
+        "https://www.guideindiatours.com/plans/1006",
+        "https://www.guideindiatours.com/plans/27",
+        "https://www.guideindiatours.com/plans/3006",
+        "https://www.guideindiatours.com/about/avneesh-dixit",
+        "https://www.guideindiatours.com/plans/4036",
+        "https://www.guideindiatours.com/taj-mahal-dress-code",
+        "https://www.guideindiatours.com/taj-mahal-sunrise-guide",
+        "https://www.guideindiatours.com/taj-mahal-tickets",
+        "https://www.guideindiatours.com/blog/golden-triangle-on-budget",
+        "https://www.guideindiatours.com/blog/taj-mahal-visiting-guide",
+        "https://www.guideindiatours.com/blog/best-time-to-visit-golden-triangle",
+        "https://www.guideindiatours.com/blog/photography-tips-golden-triangle",
+        "https://www.guideindiatours.com/blog/jaipur-pink-city-complete-guide",
+        "https://www.guideindiatours.com/blog/india-travel-etiquette-culture-guide",
+        "https://www.guideindiatours.com/blog/delhi-travel-guide-complete-itinerary",
+        "https://www.guideindiatours.com/blog/agra-beyond-taj-mahal",
+        "https://www.guideindiatours.com/plans/2003",
+        "https://www.guideindiatours.com/plans/4017",
+        "https://www.guideindiatours.com/plans/3003",
+        "https://www.guideindiatours.com/plans/2017",
+        "https://www.guideindiatours.com/plans/4035",
+        "https://www.guideindiatours.com/plans/17",
+        "https://www.guideindiatours.com/plans/4025",
+        "https://www.guideindiatours.com/plans/4013",
+        "https://www.guideindiatours.com/plans/1003",
+        "https://www.guideindiatours.com/plans/20",
+        "https://www.guideindiatours.com/plans/3008",
+        "https://www.guideindiatours.com/plans/3009",
+        "https://www.guideindiatours.com/plans/2016",
+        "https://www.guideindiatours.com/plans/7",
+        "https://www.guideindiatours.com/plans/2010",
+        "https://www.guideindiatours.com/plans/3002",
+        "https://www.guideindiatours.com/plans/4037",
+        "https://www.guideindiatours.com/plans/3005",
+        "https://www.guideindiatours.com/plans/4021",
+        "https://www.guideindiatours.com/plans/4029",
+        "https://www.guideindiatours.com/plans/4010",
+        "https://www.guideindiatours.com/plans/2009",
+        "https://www.guideindiatours.com/plans/14",
+        "https://www.guideindiatours.com/plans/4018",
+        "https://www.guideindiatours.com/plans/1005"
+      ]
+    },
+    {
+      "rule": "duplicate-title",
+      "severity": "medium",
+      "count": 2,
+      "fixable": true,
+      "pages": [
+        "https://www.guideindiatours.com/plans/2001",
+        "https://www.guideindiatours.com/plans/23"
+      ]
+    },
+    {
+      "rule": "missing-alt-text",
+      "severity": "medium",
+      "count": 1,
+      "fixable": true,
+      "pages": [
+        "https://www.guideindiatours.com/"
+      ]
+    },
+    {
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "count": 92,
+      "fixable": true,
+      "pages": [
+        "https://www.guideindiatours.com/",
+        "https://www.guideindiatours.com/about",
+        "https://www.guideindiatours.com/services",
+        "https://www.guideindiatours.com/guide-booking",
+        "https://www.guideindiatours.com/blog",
+        "https://www.guideindiatours.com/contact",
+        "https://www.guideindiatours.com/privacy-policy",
+        "https://www.guideindiatours.com/terms-of-service",
+        "https://www.guideindiatours.com/refund-policy",
+        "https://www.guideindiatours.com/golden-triangle-tours",
+        "https://www.guideindiatours.com/plans/2006",
+        "https://www.guideindiatours.com/plans/26",
+        "https://www.guideindiatours.com/plans/1006",
+        "https://www.guideindiatours.com/plans/27",
+        "https://www.guideindiatours.com/plans/3006",
+        "https://www.guideindiatours.com/about/avneesh-dixit",
+        "https://www.guideindiatours.com/taj-mahal-guide",
+        "https://www.guideindiatours.com/plans/4036",
+        "https://www.guideindiatours.com/taj-mahal-dress-code",
+        "https://www.guideindiatours.com/blog?category=Travel+Tips",
+        "https://www.guideindiatours.com/blog?category=Destinations",
+        "https://www.guideindiatours.com/plans/4009",
+        "https://www.guideindiatours.com/plans/2000",
+        "https://www.guideindiatours.com/plans/2001",
+        "https://www.guideindiatours.com/plans/1008",
+        "https://www.guideindiatours.com/plans/2003",
+        "https://www.guideindiatours.com/plans/4017",
+        "https://www.guideindiatours.com/plans/3003",
+        "https://www.guideindiatours.com/plans/1001",
+        "https://www.guideindiatours.com/plans/25",
+        "https://www.guideindiatours.com/plans/2017",
+        "https://www.guideindiatours.com/plans/4035",
+        "https://www.guideindiatours.com/plans/1009",
+        "https://www.guideindiatours.com/plans/4025",
+        "https://www.guideindiatours.com/plans/1",
+        "https://www.guideindiatours.com/plans/4013",
+        "https://www.guideindiatours.com/plans/1003",
+        "https://www.guideindiatours.com/plans/4005",
+        "https://www.guideindiatours.com/plans/23",
+        "https://www.guideindiatours.com/plans/9",
+        "https://www.guideindiatours.com/plans/3008",
+        "https://www.guideindiatours.com/plans/1010",
+        "https://www.guideindiatours.com/plans/3009",
+        "https://www.guideindiatours.com/plans/2016",
+        "https://www.guideindiatours.com/plans/1007",
+        "https://www.guideindiatours.com/plans/7",
+        "https://www.guideindiatours.com/plans/2010",
+        "https://www.guideindiatours.com/plans/2007",
+        "https://www.guideindiatours.com/plans/2002",
+        "https://www.guideindiatours.com/plans/2013"
+      ]
+    },
+    {
+      "rule": "missing-og",
+      "severity": "low",
+      "count": 6,
+      "fixable": true,
+      "pages": [
+        "https://www.guideindiatours.com/taj-mahal-best-time-to-visit",
+        "https://www.guideindiatours.com/taj-mahal-dress-code",
+        "https://www.guideindiatours.com/taj-mahal-photography-guide",
+        "https://www.guideindiatours.com/taj-mahal-opening-hours",
+        "https://www.guideindiatours.com/taj-mahal-sunrise-guide",
+        "https://www.guideindiatours.com/delhi-to-agra-tour"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "url": "https://www.guideindiatours.com/",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 201 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/",
+      "rule": "missing-alt-text",
+      "severity": "medium",
+      "message": "2 image(s) missing alt text",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/about",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 187 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/services",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 75 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/services",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 176 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/guide-booking",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 80 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/guide-booking",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 168 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 166 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/contact",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 64 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/contact",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 167 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/agra-tours",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 76 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/delhi-tours",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 72 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/privacy-policy",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 177 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/jaipur-tours",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 83 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/terms-of-service",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 166 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/refund-policy",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 181 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/golden-triangle-tours",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 83 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/golden-triangle-tours",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 171 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2006",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 62 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2006",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 174 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/26",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 67 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/26",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 229 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1006",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 63 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1006",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 176 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/27",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 74 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/27",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 229 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3006",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 64 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3006",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 178 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/taj-mahal-best-time-to-visit",
+      "rule": "missing-og",
+      "severity": "low",
+      "message": "Missing Open Graph title/image — poor social previews",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/about/avneesh-dixit",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 66 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/about/avneesh-dixit",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 201 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/taj-mahal-guide",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 179 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4036",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 83 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4036",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 342 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/taj-mahal-dress-code",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 62 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/taj-mahal-dress-code",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 174 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/taj-mahal-dress-code",
+      "rule": "missing-og",
+      "severity": "low",
+      "message": "Missing Open Graph title/image — poor social previews",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/taj-mahal-photography-guide",
+      "rule": "missing-og",
+      "severity": "low",
+      "message": "Missing Open Graph title/image — poor social previews",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/taj-mahal-opening-hours",
+      "rule": "missing-og",
+      "severity": "low",
+      "message": "Missing Open Graph title/image — poor social previews",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/taj-mahal-sunrise-guide",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 71 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/taj-mahal-sunrise-guide",
+      "rule": "missing-og",
+      "severity": "low",
+      "message": "Missing Open Graph title/image — poor social previews",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/taj-mahal-tickets",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 77 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog/golden-triangle-on-budget",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 66 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog/taj-mahal-visiting-guide",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 71 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog/best-time-to-visit-golden-triangle",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 76 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog?category=Travel+Tips",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 166 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog?category=Destinations",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 166 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog/photography-tips-golden-triangle",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 81 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog/jaipur-pink-city-complete-guide",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 65 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog/india-travel-etiquette-culture-guide",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 75 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog/delhi-travel-guide-complete-itinerary",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 64 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/blog/agra-beyond-taj-mahal",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 78 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4009",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 249 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2000",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 216 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2001",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 177 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1008",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 183 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2003",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 65 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2003",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 197 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4017",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 64 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4017",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 253 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3003",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 67 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3003",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 203 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1001",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 190 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/25",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 197 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2017",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 66 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2017",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 216 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4035",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 76 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4035",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 342 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/17",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 68 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1009",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 185 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4025",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 64 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4025",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 253 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 210 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4013",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 62 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4013",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 251 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1003",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 66 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1003",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 188 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4005",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 249 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/20",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 66 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/23",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 165 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/9",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 219 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3008",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 68 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3008",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 201 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1010",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 197 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3009",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 65 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3009",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 218 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2016",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 68 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2016",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 216 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1007",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 201 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/7",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 68 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/7",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 202 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2010",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 64 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2010",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 226 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2007",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 199 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2002",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 202 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2013",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 199 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2008",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 216 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1012",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 215 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4012",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 205 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3002",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 61 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3002",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 194 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4037",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 87 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4037",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 331 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3007",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 203 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3005",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 62 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3005",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 182 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2005",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 172 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4021",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 68 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4021",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 256 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4029",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 62 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4029",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 251 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4010",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 67 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4010",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 226 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1011",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 176 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1002",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 191 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4020",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 213 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2009",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 65 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2009",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 213 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4016",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 209 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4028",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 213 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/14",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 69 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4018",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 71 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4018",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 250 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1005",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 61 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1005",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 174 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4032",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 249 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2004",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 171 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1013",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 217 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4001",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 249 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4026",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 71 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4026",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 234 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4014",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 69 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4014",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 237 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4006",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 67 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4006",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 226 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4008",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 205 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 214 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/18",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 62 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 62 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 197 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4024",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 205 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4030",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 69 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4030",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 243 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/1004",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 173 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4031",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 209 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4022",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 75 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4022",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 256 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/10",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 224 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/126",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 202 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4033",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 67 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4033",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 235 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3010",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 71 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/3010",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 227 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4004",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 205 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/21",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 68 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4034",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 205 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/22",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 70 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/delhi-to-agra-tour",
+      "rule": "missing-og",
+      "severity": "low",
+      "message": "Missing Open Graph title/image — poor social previews",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/6",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 217 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4002",
+      "rule": "title-too-long",
+      "severity": "medium",
+      "message": "Title is 67 chars (max 60) — will truncate in SERP",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/4002",
+      "rule": "meta-desc-too-long",
+      "severity": "low",
+      "message": "Meta description is 226 chars — will truncate",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/2001",
+      "rule": "duplicate-title",
+      "severity": "medium",
+      "message": "Title duplicated across 2 pages",
+      "fixable": true
+    },
+    {
+      "url": "https://www.guideindiatours.com/plans/23",
+      "rule": "duplicate-title",
+      "severity": "medium",
+      "message": "Title duplicated across 2 pages",
+      "fixable": true
+    }
+  ]
+}
